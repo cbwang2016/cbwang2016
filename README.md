@@ -7,12 +7,12 @@
 > A [PKU physics](https://english.phy.pku.edu.cn/) student who is passionate about programming and open source.
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff) 
-![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff) 
-![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=Wolfram-Mathematica&logoColor=fff)
-![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff) 
+![](https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=Go&logoColor=fff) 
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 
 <a href="https://github.com/hexojs/hexo">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cbwang2016&repo=PKUCourses&show_owner=true" />
