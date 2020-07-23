@@ -6,10 +6,12 @@
 
 > A [PKU physics](https://english.phy.pku.edu.cn/) student who is passionate about programming and open source.
 
-![](https://img.shields.io/badge/-C-e5cd0c?style=flat-square&logo=C&labelColor=f7df1e&logoColor=fff) 
-![](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=fff)
-![](https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=Go&logoColor=fff) 
+![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C++&logoColor=fff) 
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C&logoColor=fff) 
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=Wolfram-Mathematica&logoColor=fff)
+![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff) 
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 
 <a href="https://github.com/hexojs/hexo">
