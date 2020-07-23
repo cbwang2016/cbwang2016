@@ -4,7 +4,7 @@
 
 # cbwang2016
 
-> A [PKU physics](https://english.phy.pku.edu.cn/) student who is passionate about web technologies and open source.
+> A [PKU physics](https://english.phy.pku.edu.cn/) student who is passionate about programming and open source.
 
 ![](https://img.shields.io/badge/-C-e5cd0c?style=flat-square&logo=C&labelColor=f7df1e&logoColor=fff) 
 ![](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=fff)
