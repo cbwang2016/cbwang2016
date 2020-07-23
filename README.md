@@ -6,8 +6,8 @@
 
 > A [PKU physics](https://english.phy.pku.edu.cn/) student who is passionate about programming and open source.
 
-![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C++&logoColor=fff) 
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C&logoColor=fff) 
+![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff) 
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=fff) 
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=Wolfram-Mathematica&logoColor=fff)
