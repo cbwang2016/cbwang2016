@@ -14,9 +14,9 @@
 ![](https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=Go&logoColor=fff) 
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 
-<a href="https://github.com/cbwang2016/PKUCourses">
+<!--<a href="https://github.com/cbwang2016/PKUCourses">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cbwang2016&repo=PKUCourses&show_owner=true" />
-</a>
+</a>-->
 
 <a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
 
