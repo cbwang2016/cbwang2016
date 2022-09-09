@@ -16,9 +16,9 @@
 
 <!--<a href="https://github.com/cbwang2016/PKUCourses">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cbwang2016&repo=PKUCourses&show_owner=true" />
-</a>-->
+</a>
 
-<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
+<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>-->
 
 ## Get in touch
 
