@@ -4,7 +4,7 @@
 
 # cbwang2016
 
-> A [PKU physics](https://english.phy.pku.edu.cn/) student who is passionate about programming and open source.
+> A Harvard physics Ph.D. student who is passionate about programming and open source.
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff) 
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff) 
