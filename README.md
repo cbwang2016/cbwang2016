@@ -4,7 +4,7 @@
 
 # cbwang2016
 
-> A Harvard physics Ph.D. student who is passionate about programming and open source.
+> Used to be a PhD student, now a quantitative researcher.
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff) 
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff) 
