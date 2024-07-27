@@ -4,7 +4,7 @@
 
 # cbwang2016
 
-> Used to be a PhD student, now a quantitative researcher.
+> Quant Researcher | Prev: Physics PhD student.
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff) 
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff) 
